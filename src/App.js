@@ -1,10 +1,10 @@
 import './App.css';
-import ColorPicker from './Component/ColorPicker';
+import WordCounter from './Components/WordCounter';
 
 function App() {
   return (
     <div className="App">
-      <ColorPicker />
+      <WordCounter/>
     </div>
   );
 }
